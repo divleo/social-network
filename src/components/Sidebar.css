@@ -1,0 +1,13 @@
+.sidebar {
+  /*flex: 0 0 auto;*/
+  width: 25%;
+}
+
+.sidebar-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-links__link {
+  color: black;
+}
